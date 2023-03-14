@@ -1,0 +1,91 @@
+  PYTHON PRACTICE 1A
+  
+ -------------------- 
+  w=input()
+print("Hello "+w)
+''''INPUTS
+
+World
+Anjali
+
+OUTPUTS
+
+Hello World
+Hello Anjali '''
+---------------------
+
+
+w=input()
+print(w)
+
+
+input;Bat,5
+output;Bat,5
+----------------------
+
+username=input()
+print("Given input: "+username)
+
+input;Happy Coding,Tech Foundations
+output;Given input:Happy Coding,Tech Foundations
+------------------------------------------------------
+
+
+username=input()
+first_name=input()
+print(first_name)
+
+
+input;Fundamentals,Tom
+       python    ,  jerry
+       
+output;python,jerry
+----------------------------------------------------------
+
+
+first_input=input()
+second_input=input()
+
+print(second_input)
+print(first_input) 
+input;
+Book
+Pen 
+----
+4
+5
+output;
+Pen
+Book
+----
+5
+4
+--------------------------------------------------------
+summ=input()
+first=(summ+" ")*3
+print(first)
+
+input;
+Apple
+Children
+
+output;
+Apple Apple Apple
+Children CHildren Children
+
+---------------------------------------------------------
+
+first=input()
+first_name= first[0]
+second_name=first[1]
+result=second_name + first_name
+print(result)
+
+input;
+21
+69
+output;
+12
+96
+
+
